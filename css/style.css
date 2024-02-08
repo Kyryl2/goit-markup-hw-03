@@ -188,11 +188,8 @@ img {
   background: #fff;
   width: calc((100% - 48px) / 3);
 }
-.portfolio-list {
-  display: flex;
-  gap: auto;
-  max-width: 100%;
-}
+
+
 .div {
   display: flex;
   gap:24px;
