@@ -237,7 +237,6 @@ img {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  width: 1440px;
 }
 
 .container {
