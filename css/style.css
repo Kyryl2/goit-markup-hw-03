@@ -232,6 +232,7 @@ img {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  width: 1440px;
 }
 
 .container {
@@ -275,4 +276,7 @@ img {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
+}
+section {
+  margin: 0 auto;
 }
