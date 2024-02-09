@@ -169,6 +169,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .main-text {
   font-family: "Roboto", sans-serif;
@@ -178,8 +179,18 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.second-section{
+  padding: 120px 0;
+}
 .list-one{
   display: flex;
+  gap: 24px;
+
+
+}
+
+.list-one-item{
+width: calc((100% - 72px) / 4)
 }
 .div-container {
   background: #fff;
