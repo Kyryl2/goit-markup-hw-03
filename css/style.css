@@ -104,7 +104,7 @@ img {
   letter-spacing: 0.02em;
   color: #fff;
   max-width: 496px;
-  margin:auto;
+  margin: auto;
 }
 .button-cursor {
   background-color: #4d5ae5;
@@ -115,12 +115,12 @@ img {
   color: #ffffff;
   min-width: 169px;
   height: 56px;
-  border:none;
+  border: none;
   border-radius: 4px;
   display: block;
- margin-left: auto;
- margin-right: auto;
- margin-top: 48px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 48px;
 }
 .button-cursor:hover,
 .button-cursor:focus {
@@ -130,13 +130,13 @@ img {
   background: #f4f4fd;
   padding: 120px 0;
 }
-.portfolio-section{ 
-  padding-top: 120px; 
+.portfolio-section {
+  padding-top: 120px;
   padding-bottom: 120px;
 }
 .footer-section {
   background-color: #2e2f42;
-  padding: 100px 0 ;
+  padding: 100px 0;
 }
 
 .logo-footer {
@@ -148,8 +148,8 @@ img {
   text-transform: uppercase;
   color: #f4f4fd;
 }
-.logo-footer-all{
-  display: inline-block; 
+.logo-footer-all {
+  display: inline-block;
   margin-bottom: 16px;
 }
 .text-footer {
@@ -170,7 +170,7 @@ img {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-  margin-bottom: 72px; 
+  margin-bottom: 72px;
 }
 .header-third {
   font-family: "Roboto", sans-serif;
@@ -190,35 +190,32 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  text-align: center; 
+  text-align: center;
 }
-.second-section{
+.second-section {
   padding: 120px 0;
 }
-.list-one{
+.list-one {
   display: flex;
   gap: 24px;
-
-
 }
 
-.list-one-item{
-  width: calc((100% - 24px * 3) / 4);
+.list-one-item {
+  width: calc((100% - 72px) / 4);
 }
 .div-container {
   background: #fff;
-  width: calc((100% - 24px * 3) / 4); 
-  border-radius: 0px 0px 4px 4px; 
+  width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
 }
-.div-team{
+.div-team {
   padding: 32px 0;
 }
 
 .div-portfolio {
   background: #fff;
-  width: calc((100% - 24px * 2)/3);
+  width: calc((100% - 48px) / 3);
 }
-
 
 .div {
   display: flex;
@@ -226,7 +223,7 @@ img {
 }
 .divsecond {
   display: flex;
-  column-gap: 24px; 
+  column-gap: 24px;
   row-gap: 48px;
   flex-wrap: wrap;
 }
@@ -274,8 +271,8 @@ img {
   margin-top: 0px;
   border-top: 3px solid #434455;
 }
-.jpj-under-div{
-  padding: 32px 16px ;
+.jpj-under-div {
+  padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
 }
