@@ -200,6 +200,8 @@ img {
 .list-one {
   display: flex;
   gap: 24px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 .list-one-item {
@@ -253,6 +255,8 @@ img {
 .adr {
   display: flex;
   gap: 40px;
+  padding-left: 332px;
+  margin-left: 0px;
 }
 .container-header {
   display: flex;
