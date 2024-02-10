@@ -133,6 +133,8 @@ img {
 .portfolio-section {
   padding-top: 120px;
   padding-bottom: 120px;
+  padding-left: 0;
+  padding-right: 0;
 }
 .footer-section {
   background-color: #2e2f42;
@@ -220,6 +222,8 @@ img {
 .div {
   display: flex;
   gap: 24px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 .divsecond {
   display: flex;
