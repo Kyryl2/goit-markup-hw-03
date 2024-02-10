@@ -230,6 +230,8 @@ img {
   column-gap: 24px;
   row-gap: 48px;
   flex-wrap: wrap;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 .page-container {
