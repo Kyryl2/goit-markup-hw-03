@@ -26,6 +26,7 @@ img {
   line-height: 1.17;
   text-transform: uppercase;
   color: #2e2f42;
+  padding: 0px;
 }
 
 .header {
@@ -42,6 +43,8 @@ img {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 .menu-item {
@@ -76,11 +79,13 @@ img {
 
 .address-list-link {
   font-family: "Roboto", sans-serif;
+
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  padding: 0px;
 }
 .address-list-link:hover,
 .address-list-link:focus {
@@ -240,7 +245,7 @@ img {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  width: 1440px;
+  margin: 0 auto;
 }
 
 .container {
@@ -251,20 +256,25 @@ img {
 .menu {
   display: flex;
   gap: 40px;
+  padding-left: 0px;
 }
 .adr {
   display: flex;
   gap: 40px;
-  padding-left: 332px;
-  margin-left: 0px;
+  padding: 0px;
 }
 .container-header {
   display: flex;
   align-items: center;
+
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
 .navig {
   display: flex;
   align-items: center;
+  margin-right: 332px;
 }
 .visually-hidden {
   overflow: hidden;
